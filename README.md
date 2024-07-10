@@ -49,7 +49,7 @@ Rule-Based Systems:
 *NLP: NLTK, SpaCy
 *Databases: MySQL, PostgreSQL, MongoDB, Neo4j
 
-# currently using jupiter notebook for data preprocessing, data visualization,data graphs, data modeling. #
+# currently using jupiter notebook for data preprocessing and classification. #
 
 
 
